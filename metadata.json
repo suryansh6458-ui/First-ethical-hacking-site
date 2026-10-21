@@ -1,0 +1,6 @@
+{
+  "name": "TraceLens Intelligence",
+  "description": "Phone Intelligence & Digital Footprint Analyzer - authorized OSINT research and digital footprint audit dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
